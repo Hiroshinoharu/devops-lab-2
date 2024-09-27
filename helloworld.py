@@ -1,1 +1,1 @@
-print("This is another string")
+print("This is yet another string")
