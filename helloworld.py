@@ -1,1 +1,4 @@
-print("This is another string")
+print("Hello World!")
+
+for num in range(1, 11):
+    print(num)
